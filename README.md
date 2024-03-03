@@ -59,3 +59,10 @@
 
 ### Решение 2
 
+В конфигурационном файле haproxy для второго задания переделал секцию backend web_servers
+[Конфигурационный файл haproxy для задания №2](https://github.com/blackgult/sflt-hw2/blob/main/haproxy2.cfg)
+
+Скриншоты работы haproxy второго задания и страница статистики
+
+![2-1](https://github.com/blackgult/sflt-hw2/blob/main/2-1.PNG)
+![2-2](https://github.com/blackgult/sflt-hw2/blob/main/2-2.PNG)
