@@ -41,6 +41,14 @@
 
 ### Решение 1
 
+
+[Rонфигурационный файл haproxy для задания №1](https://github.com/blackgult/sflt-hw2/blob/main/haproxy1.cfg)
+
+Скриншоты процесса настройки маршрутизатора
+
+![1-1](https://github.com/blackgult/sflt-hw1/blob/main/1-1.PNG)
+![1-2](https://github.com/blackgult/sflt-hw1/blob/main/1-2.PNG)
+
 ------
 
 ### Задание 2
